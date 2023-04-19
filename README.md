@@ -178,7 +178,8 @@ iv) Using Median Filter
 i) Using Laplacian Kernal
 
 
-![dip b6-5](https://user-images.githubusercontent.com/94828517/233046601-fa9aa2cb-cec0-4420-a87f-c8e14ecd8f58.jpg)
+![dip p6-5](https://user-images.githubusercontent.com/94828517/233047119-a1b9855e-fb2e-4540-b85d-8d76aee752ba.jpg)
+
 
 
 ii) Using Laplacian Operator
